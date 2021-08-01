@@ -1,5 +1,4 @@
 
-
 # real-estate-site
 This is a real estate buying,selling and renting site, which is the final project for the DBMS course.
 It has two interfaces,one for agent side and one for client side.Both have their own functionality.
