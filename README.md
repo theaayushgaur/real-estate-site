@@ -8,10 +8,4 @@ they can keep track of what are sold and what are listed and can check how much 
 they have sold their properties to.
 # In Client Side-
 A client is the one who is looking for property so he can search based on few parameters like country,state,
-city,no. of rooms and location and based on these results and most liked property we present them the search
-
-This project is being jointly done by Soumyajit Deb and Yash Kothari
-
-Soumyajit Deb (Roll no: 1801176)  
-
-Yash Kothari  (Roll No: 1801200)
+city,no. of rooms and location and based on these results and most liked property we present them the search.
